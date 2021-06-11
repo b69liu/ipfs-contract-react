@@ -1,4 +1,4 @@
-# SMART COTRACT COMBINED WITH IPFS
+# SMART CONTRACT COMBINED WITH IPFS
 
 This is a Disk contract for etherum network. It can upload a file to the ipfs and store the hash to Etherum contract.
 When we need the file, it will get the hash by name from the smart contract and use it to download the file from ipfs.
